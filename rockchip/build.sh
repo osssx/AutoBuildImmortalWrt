@@ -45,9 +45,7 @@ PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 PACKAGES="$PACKAGES luci-app-cloudflared"
-PACKAGES="$PACKAGES luci-il18n-cloudflared-zh-cn"
 PACKAGES="$PACKAGES luci-app-zerotier"
-PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn"
 
 
 
